@@ -1,0 +1,656 @@
+@font-face {
+  font-family: 'carservice';
+  src:  url('../font/carservice.eot?gdbb9j');
+  src:  url('../font/carservice.eot?gdbb9j#iefix') format('embedded-opentype'),
+    url('../font/carservice.ttf?gdbb9j') format('truetype'),
+    url('../font/carservice.woff?gdbb9j') format('woff'),
+    url('../font/carservice.svg?gdbb9j#carservice') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="as-icon-"], [class*=" as-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'carservice' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.as-icon-car-parts-29:before {
+  content: "\e900";
+}
+.as-icon-car-parts-28:before {
+  content: "\e901";
+}
+.as-icon-car-parts-27:before {
+  content: "\e902";
+}
+.as-icon-car-parts-26:before {
+  content: "\e903";
+}
+.as-icon-car-parts-25:before {
+  content: "\e904";
+}
+.as-icon-car-parts-24:before {
+  content: "\e905";
+}
+.as-icon-car-parts-23:before {
+  content: "\e906";
+}
+.as-icon-car-parts-22:before {
+  content: "\e907";
+}
+.as-icon-car-parts-21:before {
+  content: "\e908";
+}
+.as-icon-car-parts-20:before {
+  content: "\e909";
+}
+.as-icon-car-parts-19:before {
+  content: "\e90a";
+}
+.as-icon-car-parts-18:before {
+  content: "\e90b";
+}
+.as-icon-car-parts-17:before {
+  content: "\e90c";
+}
+.as-icon-car-parts-16:before {
+  content: "\e90d";
+}
+.as-icon-car-parts-15:before {
+  content: "\e90e";
+}
+.as-icon-car-parts-14:before {
+  content: "\e90f";
+}
+.as-icon-car-parts-13:before {
+  content: "\e910";
+}
+.as-icon-car-parts-12:before {
+  content: "\e911";
+}
+.as-icon-car-parts-11:before {
+  content: "\e912";
+}
+.as-icon-car-parts-10:before {
+  content: "\e913";
+}
+.as-icon-car-parts-9:before {
+  content: "\e914";
+}
+.as-icon-car-parts-8:before {
+  content: "\e915";
+}
+.as-icon-car-parts-7:before {
+  content: "\e916";
+}
+.as-icon-car-parts-6:before {
+  content: "\e917";
+}
+.as-icon-car-parts-5:before {
+  content: "\e918";
+}
+.as-icon-car-parts-4:before {
+  content: "\e919";
+}
+.as-icon-car-parts-3:before {
+  content: "\e91a";
+}
+.as-icon-car-parts-2:before {
+  content: "\e91b";
+}
+.as-icon-car-parts-1:before {
+  content: "\e91c";
+}
+.as-icon-car-parts:before {
+  content: "\e91d";
+}
+.as-icon-charter:before {
+  content: "\e91e";
+}
+.as-icon-clutch:before {
+  content: "\e91f";
+}
+.as-icon-disc-brake2:before {
+  content: "\e920";
+}
+.as-icon-filter:before {
+  content: "\e921";
+}
+.as-icon-generator:before {
+  content: "\e922";
+}
+.as-icon-lamp:before {
+  content: "\e923";
+}
+.as-icon-spark-plug2:before {
+  content: "\e924";
+}
+.as-icon-steering-wheel3:before {
+  content: "\e925";
+}
+.as-icon-suspension2:before {
+  content: "\e926";
+}
+.as-icon-timing-belt2:before {
+  content: "\e927";
+}
+.as-icon-gearshift-1:before {
+  content: "\e928";
+}
+.as-icon-exhaust-pipe3:before {
+  content: "\e929";
+}
+.as-icon-turbo:before {
+  content: "\e92a";
+}
+.as-icon-brake-2:before {
+  content: "\e92b";
+}
+.as-icon-alloy-wheel-1:before {
+  content: "\e92c";
+}
+.as-icon-alloy-wheel2:before {
+  content: "\e92d";
+}
+.as-icon-belt-3:before {
+  content: "\e92e";
+}
+.as-icon-speedometer2:before {
+  content: "\e92f";
+}
+.as-icon-car-engine-6:before {
+  content: "\e930";
+}
+.as-icon-car-engine-5:before {
+  content: "\e931";
+}
+.as-icon-car-engine-4:before {
+  content: "\e932";
+}
+.as-icon-radiator-1:before {
+  content: "\e933";
+}
+.as-icon-steering-wheel4:before {
+  content: "\e934";
+}
+.as-icon-shock-absorber-1:before {
+  content: "\e935";
+}
+.as-icon-chassis2:before {
+  content: "\e936";
+}
+.as-icon-wheel2:before {
+  content: "\e937";
+}
+.as-icon-battery3:before {
+  content: "\e938";
+}
+.as-icon-car-engine-3:before {
+  content: "\e939";
+}
+.as-icon-radiator3:before {
+  content: "\e93a";
+}
+.as-icon-crankshalf:before {
+  content: "\e93b";
+}
+.as-icon-brake-1:before {
+  content: "\e93c";
+}
+.as-icon-engine-2:before {
+  content: "\e93d";
+}
+.as-icon-gears2:before {
+  content: "\e93e";
+}
+.as-icon-gearshift:before {
+  content: "\e93f";
+}
+.as-icon-windscreen:before {
+  content: "\e940";
+}
+.as-icon-power:before {
+  content: "\e941";
+}
+.as-icon-shock-absorber2:before {
+  content: "\e942";
+}
+.as-icon-brake:before {
+  content: "\e943";
+}
+.as-icon-car-engine-2:before {
+  content: "\e944";
+}
+.as-icon-gear:before {
+  content: "\e945";
+}
+.as-icon-car-lights:before {
+  content: "\e946";
+}
+.as-icon-pipe:before {
+  content: "\e947";
+}
+.as-icon-car-engine-1:before {
+  content: "\e948";
+}
+.as-icon-fan-1:before {
+  content: "\e949";
+}
+.as-icon-cooler:before {
+  content: "\e94a";
+}
+.as-icon-tire2:before {
+  content: "\e94b";
+}
+.as-icon-piston-1:before {
+  content: "\e94c";
+}
+.as-icon-belt-2:before {
+  content: "\e94d";
+}
+.as-icon-fan:before {
+  content: "\e94e";
+}
+.as-icon-car-engine:before {
+  content: "\e94f";
+}
+.as-icon-spark-plug3:before {
+  content: "\e950";
+}
+.as-icon-engine-1:before {
+  content: "\e951";
+}
+.as-icon-suspension3:before {
+  content: "\e952";
+}
+.as-icon-transmission:before {
+  content: "\e953";
+}
+.as-icon-gasoline:before {
+  content: "\e954";
+}
+.as-icon-belt-1:before {
+  content: "\e955";
+}
+.as-icon-belt:before {
+  content: "\e956";
+}
+.as-icon-piston3:before {
+  content: "\e957";
+}
+.as-icon-engine2:before {
+  content: "\e958";
+}
+.as-icon-air-filter2:before {
+  content: "\e959";
+}
+.as-icon-air-refreshener:before {
+  content: "\e95a";
+}
+.as-icon-battery4:before {
+  content: "\e95b";
+}
+.as-icon-car2:before {
+  content: "\e95c";
+}
+.as-icon-car-1:before {
+  content: "\e95d";
+}
+.as-icon-car-breakdown:before {
+  content: "\e95e";
+}
+.as-icon-car-key:before {
+  content: "\e95f";
+}
+.as-icon-car-wash3:before {
+  content: "\e960";
+}
+.as-icon-chassis3:before {
+  content: "\e961";
+}
+.as-icon-cleaner:before {
+  content: "\e962";
+}
+.as-icon-crane:before {
+  content: "\e963";
+}
+.as-icon-dashboard:before {
+  content: "\e964";
+}
+.as-icon-dices:before {
+  content: "\e965";
+}
+.as-icon-dummy:before {
+  content: "\e966";
+}
+.as-icon-engine3:before {
+  content: "\e967";
+}
+.as-icon-exhaust-pipe4:before {
+  content: "\e968";
+}
+.as-icon-funnel2:before {
+  content: "\e969";
+}
+.as-icon-gasoline2:before {
+  content: "\e96a";
+}
+.as-icon-gas-station3:before {
+  content: "\e96b";
+}
+.as-icon-gearshift2:before {
+  content: "\e96c";
+}
+.as-icon-gearshift-12:before {
+  content: "\e96d";
+}
+.as-icon-hydraulic-jack:before {
+  content: "\e96e";
+}
+.as-icon-license-plate:before {
+  content: "\e96f";
+}
+.as-icon-mechanic2:before {
+  content: "\e970";
+}
+.as-icon-oil3:before {
+  content: "\e971";
+}
+.as-icon-pedals:before {
+  content: "\e972";
+}
+.as-icon-piston4:before {
+  content: "\e973";
+}
+.as-icon-pliers:before {
+  content: "\e974";
+}
+.as-icon-rearview-mirror:before {
+  content: "\e975";
+}
+.as-icon-reflective-triangle:before {
+  content: "\e976";
+}
+.as-icon-route-66:before {
+  content: "\e977";
+}
+.as-icon-seat-belt:before {
+  content: "\e978";
+}
+.as-icon-spark:before {
+  content: "\e979";
+}
+.as-icon-steering-wheel5:before {
+  content: "\e97a";
+}
+.as-icon-suspension4:before {
+  content: "\e97b";
+}
+.as-icon-toolbox:before {
+  content: "\e97c";
+}
+.as-icon-tools:before {
+  content: "\e97d";
+}
+.as-icon-voltmeter:before {
+  content: "\e97e";
+}
+.as-icon-wheel3:before {
+  content: "\e97f";
+}
+.as-icon-wiper:before {
+  content: "\e980";
+}
+.as-icon-wrench:before {
+  content: "\e981";
+}
+.as-icon-hours:before {
+  content: "\e982";
+}
+.as-icon-aerosol:before {
+  content: "\e983";
+}
+.as-icon-airbag:before {
+  content: "\e984";
+}
+.as-icon-air-filter:before {
+  content: "\e985";
+}
+.as-icon-autolift:before {
+  content: "\e986";
+}
+.as-icon-automatic-wash-car:before {
+  content: "\e987";
+}
+.as-icon-balancing:before {
+  content: "\e988";
+}
+.as-icon-battery:before {
+  content: "\e989";
+}
+.as-icon-brake-disk:before {
+  content: "\e98a";
+}
+.as-icon-car:before {
+  content: "\e98b";
+}
+.as-icon-car-painting:before {
+  content: "\e98c";
+}
+.as-icon-car-search:before {
+  content: "\e98d";
+}
+.as-icon-car-wash:before {
+  content: "\e98e";
+}
+.as-icon-chassis:before {
+  content: "\e98f";
+}
+.as-icon-cracked-windshield:before {
+  content: "\e990";
+}
+.as-icon-cross-wrench:before {
+  content: "\e991";
+}
+.as-icon-damage:before {
+  content: "\e992";
+}
+.as-icon-electric-car:before {
+  content: "\e993";
+}
+.as-icon-evacuator:before {
+  content: "\e994";
+}
+.as-icon-exhaust-pipe:before {
+  content: "\e995";
+}
+.as-icon-fix-sign:before {
+  content: "\e996";
+}
+.as-icon-flat-tire:before {
+  content: "\e997";
+}
+.as-icon-funnel:before {
+  content: "\e998";
+}
+.as-icon-fuse:before {
+  content: "\e999";
+}
+.as-icon-garage:before {
+  content: "\e99a";
+}
+.as-icon-gas-station:before {
+  content: "\e99b";
+}
+.as-icon-gears:before {
+  content: "\e99c";
+}
+.as-icon-hammer-and-wrench:before {
+  content: "\e99d";
+}
+.as-icon-headlight:before {
+  content: "\e99e";
+}
+.as-icon-jerrycan:before {
+  content: "\e99f";
+}
+.as-icon-key:before {
+  content: "\e9a0";
+}
+.as-icon-mirror:before {
+  content: "\e9a1";
+}
+.as-icon-motor:before {
+  content: "\e9a2";
+}
+.as-icon-oil:before {
+  content: "\e9a3";
+}
+.as-icon-piston:before {
+  content: "\e9a4";
+}
+.as-icon-radiator:before {
+  content: "\e9a5";
+}
+.as-icon-screwdriver-and-wrench:before {
+  content: "\e9a6";
+}
+.as-icon-shock-absorber:before {
+  content: "\e9a7";
+}
+.as-icon-signaling:before {
+  content: "\e9a8";
+}
+.as-icon-spark-plug:before {
+  content: "\e9a9";
+}
+.as-icon-steering-wheel:before {
+  content: "\e9aa";
+}
+.as-icon-tachometer:before {
+  content: "\e9ab";
+}
+.as-icon-tank:before {
+  content: "\e9ac";
+}
+.as-icon-timing-belt:before {
+  content: "\e9ad";
+}
+.as-icon-tinting:before {
+  content: "\e9ae";
+}
+.as-icon-traffic-cone:before {
+  content: "\e9af";
+}
+.as-icon-transmision:before {
+  content: "\e9b0";
+}
+.as-icon-voltage:before {
+  content: "\e9b1";
+}
+.as-icon-wheel:before {
+  content: "\e9b2";
+}
+.as-icon-wheel-and-manometer:before {
+  content: "\e9b3";
+}
+.as-icon-air-conditioning:before {
+  content: "\e9b4";
+}
+.as-icon-alloy-wheel:before {
+  content: "\e9b5";
+}
+.as-icon-battery2:before {
+  content: "\e9b6";
+}
+.as-icon-car-repair:before {
+  content: "\e9b7";
+}
+.as-icon-car-wash2:before {
+  content: "\e9b8";
+}
+.as-icon-diagnostic:before {
+  content: "\e9b9";
+}
+.as-icon-disc-brake:before {
+  content: "\e9ba";
+}
+.as-icon-electrical-service:before {
+  content: "\e9bb";
+}
+.as-icon-engine:before {
+  content: "\e9bc";
+}
+.as-icon-exhaust-pipe2:before {
+  content: "\e9bd";
+}
+.as-icon-gas-station2:before {
+  content: "\e9be";
+}
+.as-icon-gearstick:before {
+  content: "\e9bf";
+}
+.as-icon-ignition:before {
+  content: "\e9c0";
+}
+.as-icon-inspection:before {
+  content: "\e9c1";
+}
+.as-icon-key2:before {
+  content: "\e9c2";
+}
+.as-icon-maintenance:before {
+  content: "\e9c3";
+}
+.as-icon-mechanic:before {
+  content: "\e9c4";
+}
+.as-icon-oil2:before {
+  content: "\e9c5";
+}
+.as-icon-painting:before {
+  content: "\e9c6";
+}
+.as-icon-piston2:before {
+  content: "\e9c7";
+}
+.as-icon-radiator2:before {
+  content: "\e9c8";
+}
+.as-icon-reparation:before {
+  content: "\e9c9";
+}
+.as-icon-speedometer:before {
+  content: "\e9ca";
+}
+.as-icon-steering-wheel2:before {
+  content: "\e9cb";
+}
+.as-icon-suspension:before {
+  content: "\e9cc";
+}
+.as-icon-tire:before {
+  content: "\e9cd";
+}
+.as-icon-tire-1:before {
+  content: "\e9ce";
+}
+.as-icon-trailer:before {
+  content: "\e9cf";
+}
+.as-icon-wheel-alignment:before {
+  content: "\e9d0";
+}
+.as-icon-windshield:before {
+  content: "\e9d1";
+}
